@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+SQL Query Executor
+
+## Libraries Used
+
+Material UI -> Design
+Slate JS -> SQL Query Highlter and Editor
+Prism JS -> Slate JS helper for SQL syntex highlight
 
 ## Available Scripts
 
