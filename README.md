@@ -2,11 +2,32 @@
 
 SQL Query Executor
 
+Web based application to write and execute the SQL Queries.
+
+You can select the tables from the left panel and It will run the SELECT Query and It will display result in the below panel.
+
+If table is selected and you choose any query from the right, You will get query directly in the editor and you can change the query based on your need.
+
+if Table is not selected and you choose query from right directly, It will set the general query for you on the editor to change based on your need.
+
+## JAVASCRIPR Framework Used
+
+React JS
+
 ## Libraries Used
 
 Material UI -> Design
 Slate JS -> SQL Query Highlter and Editor
 Prism JS -> Slate JS helper for SQL syntex highlight
+
+## Page Load time
+
+First Contentful Paint : 0.3 s
+Largest Contentful Paint : 0.6 s
+
+## Running Demo URL (Netlify)
+
+https://idyllic-chaja-a91b7c.netlify.app/
 
 ## Available Scripts
 
