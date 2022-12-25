@@ -10,7 +10,7 @@ If table is selected and you choose any query from the right, You will get query
 
 if Table is not selected and you choose query from right directly, It will set the general query for you on the editor to change based on your need.
 
-## JAVASCRIPR Framework Used
+## JAVASCRIPT Framework Used
 
 React JS
 
